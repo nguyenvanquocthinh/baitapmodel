@@ -1,0 +1,23 @@
+footer {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 70px;
+  border-top: 2px solid #f3f3f3;
+}
+
+.footer__logo P {
+  padding: 40px 0;
+  width: 505px;
+  height: 64px;
+  line-height: 30px;
+}
+
+.ss1 {
+  display: flex;
+  justify-content: space-around;
+  gap: 80px;
+}
+
+.footer__pro {
+  line-height: 40px;
+}
